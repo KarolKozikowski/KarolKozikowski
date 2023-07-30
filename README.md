@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KarolKozikowski
 - 👀 I’m interested in ... Sleep
-- 🌱 I’m currently learning ... Sleeping
-- 💞️ I’m looking to collaborate on ... nothing yet
-- 📫 How to reach me ... don't
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me ... 
 
 <!---
 KarolKozikowski/KarolKozikowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
