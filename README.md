@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT, aviation, geography
 - 🌱 I’m currently learning WEB + Cybersecurity
 - 💞️ I’m looking to collaborate on any IT internship
-- 📫 How to reach me: Kozikowski.karol03@gmail.com
+- 📫 How to reach me: kozikowski.karol03@gmail.com
 
 <!---
 KarolKozikowski/KarolKozikowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
