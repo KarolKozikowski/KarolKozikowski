@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KarolKozikowski
-- 👀 I’m interested in IT, aviation, geography
-- 🌱 I’m currently learning WEB + Cybersecurity
-- 💞️ I’m looking to collaborate on any IT internship
+This is my main account where I upload projects that I think are worth sharing, but I do sometimes push changes from my student account when I work on a school computer.
+
+- 🌱 I’m currently learning Cybersecurity + Web Dev
 - 📫 How to reach me: kozikowski.karol03@gmail.com
 
 <!---
