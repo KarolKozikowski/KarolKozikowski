@@ -1,4 +1,4 @@
-This is my main account where I upload projects that I think are worth sharing, but I do sometimes push changes from my student account when I work on a school computer.
+This is my main GitHub account, where I upload projects worth sharing. Occasionally, I push changes from my student account when working on a school computer.
 
 - 🌱 I’m currently learning Cybersecurity + Web Dev
 - 📫 How to reach me: kozikowski.karol03@gmail.com
